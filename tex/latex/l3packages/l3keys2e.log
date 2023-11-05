@@ -1,0 +1,81 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.11)  17 OCT 2023 14:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**l3keys2e.ins
+(./l3keys2e.ins
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+(c:/texlive/2023/texmf-dist/tex/latex/base/docstrip.tex
+\blockLevel=\count185
+\emptyLines=\count186
+\processedLines=\count187
+\commentsRemoved=\count188
+\commentsPassed=\count189
+\codeLinesPassed=\count190
+\TotalprocessedLines=\count191
+\TotalcommentsRemoved=\count192
+\TotalcommentsPassed=\count193
+\TotalcodeLinesPassed=\count194
+\NumberOfFiles=\count195
+\inFile=\read2
+\inputcheck=\read3
+\off@0=\count196
+\off@1=\count197
+\off@2=\count198
+\off@3=\count199
+\off@4=\count266
+\off@5=\count267
+\off@6=\count268
+\off@7=\count269
+\off@8=\count270
+\off@9=\count271
+\off@10=\count272
+\off@11=\count273
+\off@12=\count274
+\off@13=\count275
+\off@14=\count276
+\off@15=\count277
+\@maxfiles=\count278
+\@maxoutfiles=\count279
+
+Utility: `docstrip' v2.6b <2022-09-03>
+English documentation    <2022-09-03>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+)
+
+Generating file(s) ./l3keys2e.sty 
+\openout0 = `./l3keys2e.sty'.
+
+
+Processing file l3keys2e.dtx (package) -> l3keys2e.sty
+Lines  processed: 367
+Comments removed: 233
+Comments  passed: 1
+Codelines passed: 114
+
+ ) 
+Here is how much of TeX's memory you used:
+ 331 strings out of 474504
+ 3525 string characters out of 5756725
+ 1920043 words of memory out of 5000000
+ 22397 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,15p,157b,123s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
